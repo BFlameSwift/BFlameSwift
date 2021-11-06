@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BFlameSwift&count_private=true&hide=html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently studying at Beihang University(BUAA).
-- 🌱 I’m currently learning Go, ML and DL
+- 🌱 I’m currently learning Go, ML , DL and optimization theory
 - 📫 How to reach me: Send me email to BFlameSwift@163.com
