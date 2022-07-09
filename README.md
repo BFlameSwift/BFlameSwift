@@ -41,6 +41,15 @@ Here are some ideas to get you started:
   
 </details>
 
+
+<p align="center">
+<a href= "https://bflameswift.github.io"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://bflame.notion.site/"><img src="https://icons8.com/icon/F6H2fsqXKBwH/notion"/></a>
+<a href= "https://space.bilibili.com/41883347/"><img src="https://icons8.com/icon/5E24fZ9ORelo/bilibili"/></a>
+<a href= "https://twitter.com/bflameswift"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+
+</p>
+
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=BFlameSwift.BFlameSwift" alt="visitor badge"/>-->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=BFlameSwift.BFlameSwift" alt="visitor badge"/>       
