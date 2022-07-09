@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello there 👋
 
 
 - 🔭 I’m currently studying at Beihang University(BUAA).
@@ -36,4 +36,12 @@ Here are some ideas to get you started:
 
 </p>
 
+  
+
+  
 </details>
+
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=BFlameSwift.BFlameSwift" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=BFlameSwift.BFlameSwift" alt="visitor badge"/>       
+</p>
