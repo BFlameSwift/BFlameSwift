@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href= "https://bflameswift.github.io"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-<a href= "https://bflame.notion.site/"><img src="https://img.icons8.com/color/48/000000/notion--v1.png" height="24" width="24"/></a>
-<a href= "https://space.bilibili.com/41883347/"><img src="https://img.icons8.com/color/48/000000/bilibili.png"  height="24" width="24" /></a>
+<a href= "https://bflame.notion.site/"><img src="https://img.icons8.com/color/48/000000/notion--v1.png" height="32" width="32"/></a>
+<a href= "https://space.bilibili.com/41883347/"><img src="https://img.icons8.com/color/48/000000/bilibili.png"  height="32" width="32" /></a>
 <a href= "https://twitter.com/bflameswift"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 
 </p>
