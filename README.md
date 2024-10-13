@@ -1,11 +1,15 @@
 # Hello there 👋
 
+- 🔭 I am currently pursuing a Master's degree at Peking University. Before that, I received my Bachelor's degree from Beihang University.
+- 🌱 I’m passionate about computer vision (CV), natural language processing (NLP), and large language models (LLMs). Currently, I’m learning machine learning (ML), optimization theory, and multimodal large language models.
+- 📫 How to reach me: Feel free to email me at BFlameSwift@163.com.
+- ✨ Fun fact: I love hiking and enjoy long-distance running in my free time!
 
-- 🔭 I am a graduate of Beihang University(BUAA).
-- 🌱 I’m currently learning Go, ML , DL and optimization theory
-- 📫 How to reach me: Send me email to BFlameSwift@163.com
+  
+  
+<!--
 - ✍🏻 I write my personal thoughts on Programming & Math in my [Personal Blog](https://bflameswift.github.io/)
-
+-->
 
 <!--
 **BFlameSwift/BFlameSwift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
