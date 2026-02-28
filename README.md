@@ -1,6 +1,6 @@
 # Hello there 👋
 
-- 🔭 I am a first-year graduate student in Wangxuan Institute of Computer Technology, Peking University. Before that, I received my Bachelor's degree from Beihang University.
+- 🔭 I am a second-year graduate student in Wangxuan Institute of Computer Technology, Peking University. Before that, I received my Bachelor's degree from Beihang University.
 - 🌱 I’m passionate about computer vision (CV), natural language processing (NLP), and large language models (LLMs). Currently, I’m learning machine learning (ML), optimization theory, and multimodal large language models.
 - 📫 How to reach me: Feel free to email me at liyu@stu.pku.edu.cn.
 - ✨ Fun fact: I love hiking and enjoy long-distance running in my free time!
